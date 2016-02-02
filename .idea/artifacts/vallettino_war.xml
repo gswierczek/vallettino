@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vallettino:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="vallettino.war">
+      <element id="artifact" artifact-name="vallettino:war exploded" />
+    </root>
+  </artifact>
+</component>
